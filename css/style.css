@@ -970,6 +970,10 @@ h6 {
   font-weight: 700;
 }
 
+.text-block__text:last-child {
+  padding-bottom: 0;
+}
+
 .capabilities-block__title {
   font-weight: 700;
   padding-bottom: 30px;
@@ -1087,11 +1091,6 @@ h6 {
 
 .history-about__text span {
   font-weight: 700;
-}
-
-.scrollmagic-pin-spacer {
-  padding-top: 0;
-  padding-bottom: 0;
 }
 
 .faq {
